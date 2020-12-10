@@ -1,8 +1,8 @@
 Arguments: 
-  /usr/bin/node /mnt/c/Program Files (x86)/Yarn/bin/yarn.js add @types/core -D
+  /usr/bin/node /mnt/c/Program Files (x86)/Yarn/bin/yarn.js add tsyring
 
 PATH: 
-  /home/luiz.clazzer/.yarn/bin:/home/luiz.clazzer/.config/yarn/global/node_modules/.bin:/home/luiz.clazzer/.vscode-server/bin/d2e414d9e4239a252d1ab117bd7067f125afd80a/bin:/home/luiz.clazzer/.zinit/polaris/sbin:/home/luiz.clazzer/.zinit/polaris/bin:/home/luiz.clazzer/.yarn/bin:/home/luiz.clazzer/.config/yarn/global/node_modules/.bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/mnt/c/Python38/Scripts/:/mnt/c/Python38/:/mnt/c/Program Files (x86)/CollabNet:/mnt/c/Program Files (x86)/Embarcadero/Studio/15.0/bin:/mnt/c/Users/Public/Documents/Embarcadero/Studio/15.0/Bpl:/mnt/c/Program Files (x86)/Embarcadero/Studio/15.0/bin64:/mnt/c/Users/Public/Documents/Embarcadero/Studio/15.0/Bpl/Win64:/mnt/c/Program Files (x86)/Common Files/Oracle/Java/javapath:/mnt/c/Program Files/AdoptOpenJDK/jre-8.0.212.03-hotspot/bin:/mnt/c/WINDOWS/system32:/mnt/c/WINDOWS:/mnt/c/WINDOWS/System32/Wbem:/mnt/c/WINDOWS/System32/WindowsPowerShell/v1.0/:/mnt/c/WINDOWS/System32/OpenSSH/:/mnt/c/Program Files (x86)/Intel/Intel(R) Management Engine Components/DAL:/mnt/c/Program Files/Intel/Intel(R) Management Engine Components/DAL:/mnt/c/Program Files/TortoiseSVN/bin:/mnt/d/Viasoft/Client/dlls:/mnt/c/Program Files/Git/cmd:/mnt/c/Users/luiz.clazzer/AppData/Roaming/npm:/mnt/c/Program Files/Java/jdk-11.0.3/bin:/mnt/c/Program Files/nodejs/:/mnt/c/ProgramData/chocolatey/bin:/mnt/c/Program Files (x86)/Yarn/bin/:/mnt/c/Android/Sdk/emulator:/mnt/c/Android/Sdk/tools:/mnt/c/Android/Sdk/tools/bin:/mnt/c/Android/Sdk/platform-tools:/mnt/c/Program Files/Docker/Docker/resources/bin:/mnt/c/ProgramData/DockerDesktop/version-bin:/mnt/c/Users/luiz.clazzer/.windows-build-tools/python27/:/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/:/mnt/c/Users/luiz.clazzer/AppData/Local/Programs/Microsoft VS Code/bin:/mnt/c/Program Files (x86)/Sophos/Sophos SSL VPN Client/bin:/mnt/c/Users/luiz.clazzer/AppData/Local/Yarn/bin:/mnt/c/Users/luiz.clazzer/AppData/Local/Microsoft/WindowsApps:/home/luiz.clazzer/Android/Sdk/emulator:/home/luiz.clazzer/Android/Sdk/tools:/home/luiz.clazzer/Android/Sdk/tools/bin:/home/luiz.clazzer/Android/Sdk/platform-tools:/home/luiz.clazzer/android-studio/bin:/home/luiz.clazzer/Android/Sdk/emulator:/home/luiz.clazzer/Android/Sdk/tools:/home/luiz.clazzer/Android/Sdk/tools/bin:/home/luiz.clazzer/Android/Sdk/platform-tools:/home/luiz.clazzer/android-studio/bin
+  /home/luiz.clazzer/.yarn/bin:/home/luiz.clazzer/.config/yarn/global/node_modules/.bin:/home/luiz.clazzer/.vscode-server/bin/e5a624b788d92b8d34d1392e4c4d9789406efe8f/bin:/home/luiz.clazzer/.zinit/polaris/sbin:/home/luiz.clazzer/.zinit/polaris/bin:/home/luiz.clazzer/.yarn/bin:/home/luiz.clazzer/.config/yarn/global/node_modules/.bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/mnt/c/Python39/Scripts/:/mnt/c/Python39/:/mnt/c/Program Files/Common Files/Oracle/Java/javapath:/mnt/c/Python38/Scripts/:/mnt/c/Python38/:/mnt/c/Program Files (x86)/CollabNet:/mnt/c/Program Files (x86)/Embarcadero/Studio/15.0/bin:/mnt/c/Users/Public/Documents/Embarcadero/Studio/15.0/Bpl:/mnt/c/Program Files (x86)/Embarcadero/Studio/15.0/bin64:/mnt/c/Users/Public/Documents/Embarcadero/Studio/15.0/Bpl/Win64:/mnt/c/Program Files (x86)/Common Files/Oracle/Java/javapath:/mnt/c/Program Files/AdoptOpenJDK/jre-8.0.212.03-hotspot/bin:/mnt/c/WINDOWS/system32:/mnt/c/WINDOWS:/mnt/c/WINDOWS/System32/Wbem:/mnt/c/WINDOWS/System32/WindowsPowerShell/v1.0/:/mnt/c/WINDOWS/System32/OpenSSH/:/mnt/c/Program Files (x86)/Intel/Intel(R) Management Engine Components/DAL:/mnt/c/Program Files/Intel/Intel(R) Management Engine Components/DAL:/mnt/c/Program Files/TortoiseSVN/bin:/mnt/d/Viasoft/Client/dlls:/mnt/c/Program Files/Git/cmd:/mnt/c/Users/luiz.clazzer/AppData/Roaming/npm:/mnt/c/Program Files/Java/jdk-11.0.3/bin:/mnt/c/ProgramData/chocolatey/bin:/mnt/c/Program Files (x86)/Yarn/bin/:/mnt/c/Android/Sdk/emulator:/mnt/c/Android/Sdk/tools:/mnt/c/Android/Sdk/tools/bin:/mnt/c/Android/Sdk/platform-tools:/mnt/c/Program Files/Docker/Docker/resources/bin:/mnt/c/ProgramData/DockerDesktop/version-bin:/mnt/c/Program Files/nodejs/:/mnt/c/Users/luiz.clazzer/.windows-build-tools/python27/:/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/:/mnt/c/Users/luiz.clazzer/AppData/Local/Programs/Microsoft VS Code/bin:/mnt/c/Program Files (x86)/Sophos/Sophos SSL VPN Client/bin:/mnt/c/Users/luiz.clazzer/AppData/Local/Yarn/bin:/mnt/c/Users/luiz.clazzer/AppData/Local/Microsoft/WindowsApps:/home/luiz.clazzer/Android/Sdk/emulator:/home/luiz.clazzer/Android/Sdk/tools:/home/luiz.clazzer/Android/Sdk/tools/bin:/home/luiz.clazzer/Android/Sdk/platform-tools:/home/luiz.clazzer/android-studio/bin:/home/luiz.clazzer/Android/Sdk/emulator:/home/luiz.clazzer/Android/Sdk/tools:/home/luiz.clazzer/Android/Sdk/tools/bin:/home/luiz.clazzer/Android/Sdk/platform-tools:/home/luiz.clazzer/android-studio/bin
 
 Yarn version: 
   1.22.4
@@ -14,7 +14,7 @@ Platform:
   linux x64
 
 Trace: 
-  Error: https://registry.yarnpkg.com/@types%2fcore: Not found
+  Error: https://registry.yarnpkg.com/tsyring: Not found
       at Request.params.callback [as _callback] (/mnt/c/Program Files (x86)/Yarn/lib/cli.js:66096:18)
       at Request.self.callback (/mnt/c/Program Files (x86)/Yarn/lib/cli.js:140748:22)
       at Request.emit (events.js:314:20)
@@ -34,9 +34,9 @@ npm manifest:
     "license": "MIT",
     "scripts": {
       "build": "tsc",
-      "dev:server": "ts-node-dev --inspect --transpile-only  --ignore-watch node_modules src/server.ts",
-      "start": "ts-node src/index.ts",
-      "typeorm": "ts-node-dev ./node_modules/typeorm/cli.js"
+      "dev:server": "ts-node-dev -r tsconfig-paths/register --inspect --transpile-only  --ignore-watch node_modules src/shared/infra/http/server.ts",
+      "start": "ts-node src/shared/infra/http/server.ts",
+      "typeorm": "ts-node-dev -r tsconfig-paths/register ./node_modules/typeorm/cli.js"
     },
     "dependencies": {
       "@types/express": "^4.17.7",
@@ -54,6 +54,7 @@ npm manifest:
     },
     "devDependencies": {
       "@types/bcryptjs": "^2.4.2",
+      "@types/cors": "^2.8.8",
       "@types/jsonwebtoken": "^8.5.0",
       "@types/multer": "^1.4.4",
       "@typescript-eslint/eslint-plugin": "^4.1.0",
@@ -66,6 +67,7 @@ npm manifest:
       "eslint-plugin-prettier": "^3.1.4",
       "prettier": "^2.1.1",
       "ts-node-dev": "^1.0.0-pre.56",
+      "tsconfig-paths": "^3.9.0",
       "typescript": "^3.9.7"
     }
   }
@@ -144,6 +146,13 @@ Lockfile:
     integrity sha512-2+FrkXY4zllzTNfJth7jOqEHC+enpLeGslEhpnTAkg21GkRrWV4SsAtqchtT4YS9/nODBU2/ZfsBY2X4J/dX7A==
     dependencies:
       "@types/node" "*"
+  
+  "@types/cors@^2.8.8":
+    version "2.8.8"
+    resolved "https://registry.yarnpkg.com/@types/cors/-/cors-2.8.8.tgz#317a8d8561995c60e35b9e0fcaa8d36660c98092"
+    integrity sha512-fO3gf3DxU2Trcbr75O7obVndW/X5k8rJNZkLXlQWStTHhP71PkRqjwPIEI0yMnJdg9R9OasjU+Bsr+Hr1xy/0w==
+    dependencies:
+      "@types/express" "*"
   
   "@types/express-serve-static-core@*":
     version "4.17.9"
