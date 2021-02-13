@@ -30,6 +30,13 @@ class Appointment {
 
   @UpdateDateColumn()
   updated_at: Date;
+
+  @Column()
+  user_id: string;
+
+  @ManyToOne(() => User)
+  @JoinColumn({ name: 'user_id' })
+  user: User;
 }
 
 export default Appointment;
