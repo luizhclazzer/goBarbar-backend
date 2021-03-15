@@ -7,6 +7,7 @@ temp/
 .env
 tmp/*
 !tmp/.gitkeep
+dist
 
 # Ignore test-related files
 /coverage.data
