@@ -36,6 +36,7 @@ Technologies that I used to develop this api
 - [Eslint](https://eslint.org/)
 - [Prettier](https://prettier.io/)
 - [EditorConfig](https://editorconfig.org/)
+- [Tsyringe](https://www.npmjs.com/package/tsyringe)
 
 ## 💻 Getting started
 
